@@ -8,10 +8,10 @@
 
 <p align='center'>  
   <a href="https://www.linkedin.com/in/yaseen-mallick-63063b191/">
-    <img style="border-radius: 5px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=border-radius: 5px&logo=linkedin&logoColor=white" height="40" width="150" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/yaseenmallick25/">
-    <img style="border-radius: 5px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=border-radius: 5px &logo=instagram&logoColor=white" height="41" width="150" />        
   </a>&nbsp;&nbsp;
 </p>
 
