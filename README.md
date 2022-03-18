@@ -28,6 +28,47 @@
 - 📫 How to reach me ... just text me.
 - PS: You can simply pull an issue to get to me if nothing works 😅.
 
+<details>
+  <summary>📃 Resume</summary>
+
+  ## Experience
+  
+  <img align="right" src="https://img.shields.io/badge/iOS%20-3498DB?logo=swift&logoColor=white" />
+
+- 👨‍💻 **iOS Developer Intern**\
+- 📍 **FastestIndia NFTs** - Buxar, Bihar, India
+- 📆 2021 - moment\
+  
+  ## Education
+
+- 📖 **B.Sc.IT**\
+- 📍 **Thakur Shyamnarayan Degree College, Mumbai, Maharashtra, India
+- 📆 2019 - 2022\
+  
+  ## Skills
+  
+  <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/SwiftUI-3776AB?logo=swift&logoColor=white" />
+  
+  **Programming**
+
+  <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Mac-0078D6?logo=macos&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+
+  **Operating Systems**
+
+  <img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
+  
+  <img align="right" src="https://img.shields.io/badge/Hindi-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
+
+</details>
+
+
 <!---
 YaseenMallick25/YaseenMallick25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
