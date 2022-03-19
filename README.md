@@ -35,15 +35,15 @@
   
   <img align="right" src="https://img.shields.io/badge/iOS%20-3498DB?logo=swift&logoColor=white" />
 
-- 👨‍💻 **iOS Developer Intern**\
+- 👨‍💻 **iOS Developer Intern**
 - 📍 **FastestIndia NFTs** - Buxar, Bihar, India
-- 📆 2021 - moment\
+- 📆 2021 - moment
   
   ## Education
 
-- 📖 **B.Sc.IT**\
+- 📖 **B.Sc.IT**
 - 📍 **Thakur Shyamnarayan Degree College, Mumbai, Maharashtra, India
-- 📆 2019 - 2022\
+- 📆 2019 - 2022
   
   ## Skills
   
@@ -54,12 +54,11 @@
   <img align="right" src="https://img.shields.io/badge/SwiftUI-3776AB?logo=swift&logoColor=white" />
   
   **Programming**
-
-  <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Mac-0078D6?logo=macos&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
+  
   <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-
+  <img align="right" src="https://img.shields.io/badge/Mac-0078D6?logo=macos&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+  
   **Operating Systems**
 
 </details>
