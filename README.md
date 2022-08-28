@@ -25,7 +25,7 @@
   ## Experience
   
 
-  
+
 - 👨‍💻 **Trainee Software Engineer**
 - 📍 **Neebal Technologies** - Mumbai, Maharashtra, India
 - 📆 2022 - moment
@@ -65,6 +65,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/000000/swift.png" title="Swift"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
@@ -81,12 +82,17 @@
  
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
-<code><a href="https://www.linkedin.com/in/yaseen-mallick-63063b191/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<code><a href="https://www.instagram.com/yaseenmallick25/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
-<code><a href="mailto:yaseenmallick25@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code>
+<a href="https://www.linkedin.com/in/yaseen-mallick-63063b191/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+
+<code>
+  <a href="https://www.instagram.com/yaseenmallick25/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a>
+</code>
+<code>
+  <a href="mailto:yaseenmallick25@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a>
+</code>
 
 <br>
-
 
 <!---
 YaseenMallick25/YaseenMallick25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
