@@ -1,10 +1,19 @@
-<h1 align='center'>
-  Hi there 👋 I'm Yaseen 👨‍💻
-</h1>
+<!--
+How to make this gif ?
 
-<p align="center">
-  <img src="https://github.com/YaseenMallick25/YaseenMallick25/main/assets/IntroYaseen.gif" alt="👋 Hi there! I'm Yaseen">
-</p>
+I made my with 
+https://codesandbox.io/s/typwritter-intro-animation-tijn4h
+
+Just follow the link make changes to the main.js code.
+
+Screen Record it, I used ScreenToGif to record it and export it as gif (use Most used colors in the encoder and quantizer part)
+
+add that .gif file to your readme repo and make appropriate changes to readme.md file to use that gif and call it a day XD.
+-->
+
+<h1 align="center">
+  <img src="https://github.com/YaseenMallick25/YaseenMallick25/blob/main/assets/IntroYaseen.gif" alt="👋 Hi there! I'm Yaseen">
+</h1>
 
 <p align='center'>
   A iOS and web developer from Mumbai, India.
