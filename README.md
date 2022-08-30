@@ -2,6 +2,10 @@
   Hi there 👋 I'm Yaseen 👨‍💻
 </h1>
 
+<p align="center">
+  <img src="https://github.com/YaseenMallick25/YaseenMallick25/main/assets/IntroYaseen.gif" alt="👋 Hi there! I'm Yaseen">
+</p>
+
 <p align='center'>
   A iOS and web developer from Mumbai, India.
 </p>
