@@ -53,7 +53,7 @@ add that .gif file to your readme repo and make appropriate changes to readme.md
   ## Education
 
 - 📖 **B.Sc.IT**
-- 📍 **Thakur Shyamnarayan Degree College, Mumbai, Maharashtra, India
+- 📍 **Thakur Shyamnarayan Degree College, Mumbai, Maharashtra, India**
 - 📆 2019 - 2022
   
   ## Skills
