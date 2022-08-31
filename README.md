@@ -35,28 +35,25 @@ add that .gif file to your readme repo and make appropriate changes to readme.md
 <details>
   <summary>📃 Resume</summary>
 
-  ## Experience
+  # Experience
   
-
-
-- 👨‍💻 **Trainee Software Engineer**
-- 📍 **Neebal Technologies** - Mumbai, Maharashtra, India
-- 📆 2022 - moment
-  
-  ------------------------------------------------------------------------------------------------
+- ## **👨‍💻 Trainee Software Engineer**
+  - 📍 **Neebal Technologies** - Mumbai, Maharashtra, India
+  - 📆 2022 - moment
   
   <img align="right" src="https://img.shields.io/badge/iOS%20-3498DB?logo=swift&logoColor=white" />
-- 👨‍💻 **iOS Developer Intern**
-- 📍 **FastestIndia NFTs** - Buxar, Bihar, India
-- 📆 2021 - 2022
+- ## 👨‍💻 **iOS Developer Intern**
+  - 📍 **FastestIndia NFTs** - Buxar, Bihar, India
+  - 📆 2021 - 2022
   
-  ## Education
+# Education
 
-- 📖 **B.Sc.IT**
-- 📍 **Thakur Shyamnarayan Degree College, Mumbai, Maharashtra, India**
-- 📆 2019 - 2022
+- ## 📖 **B.Sc.IT**
+  - 📍 **Thakur Shyamnarayan Degree College, Mumbai, Maharashtra, India**
+  - 📆 2019 - 2022
   
-  ## Skills
+<!--
+# Skills
   
   <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
@@ -71,7 +68,8 @@ add that .gif file to your readme repo and make appropriate changes to readme.md
   <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
   
   **Operating Systems**
-
+-->
+  
 </details>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
