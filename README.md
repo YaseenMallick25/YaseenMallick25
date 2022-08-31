@@ -41,8 +41,8 @@ add that .gif file to your readme repo and make appropriate changes to readme.md
   - 📍 **Neebal Technologies** - Mumbai, Maharashtra, India
   - 📆 2022 - moment
   
-  <img align="right" src="https://img.shields.io/badge/iOS%20-3498DB?logo=swift&logoColor=white" />
-- ## 👨‍💻 **iOS Developer Intern**
+
+- ## 👨‍💻 **iOS Developer Intern**   <img align="right" src="https://img.shields.io/badge/iOS%20-3498DB?logo=swift&logoColor=white" />
   - 📍 **FastestIndia NFTs** - Buxar, Bihar, India
   - 📆 2021 - 2022
   
