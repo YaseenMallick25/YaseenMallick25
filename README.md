@@ -36,10 +36,14 @@ add that .gif file to your readme repo and make appropriate changes to readme.md
   <summary>📃 Resume</summary>
 
   # Experience
+
+  - ## **👨‍💻 Associate Software Engineer**
+  - 📍 **Neebal Technologies** - Mumbai, Maharashtra, India
+  - 📆 2022 - Present
   
 - ## **👨‍💻 Trainee Software Engineer**
   - 📍 **Neebal Technologies** - Mumbai, Maharashtra, India
-  - 📆 2022 - moment
+  - 📆 2022 - 2023
   
 
 - ## 👨‍💻 **iOS Developer Intern**   <img align="right" src="https://img.shields.io/badge/iOS%20-3498DB?logo=swift&logoColor=white" />
